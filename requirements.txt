@@ -9,9 +9,9 @@ svgling
 streamlit
 nltk
 scikit-learn
-keras
+# keras
 tensorboard
-#scikeras
-#tensorflow
-#gensim
+scikeras
+tensorflow
+gensim
 
