@@ -9,9 +9,9 @@ svgling
 streamlit
 nltk
 scikit-learn
+scikeras
 # keras
 tensorboard
-scikeras
 tensorflow
 gensim
 
